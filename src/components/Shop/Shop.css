@@ -25,3 +25,14 @@
     justify-content: space-between;
     align-items: center;
 }
+.pagination{
+    text-align: center;
+    margin: 10px;
+}
+.pagination button {
+    margin:5px;
+    border: 2px solid orangered;
+}
+.pagination .currentPage {
+    background-color: red;
+}
